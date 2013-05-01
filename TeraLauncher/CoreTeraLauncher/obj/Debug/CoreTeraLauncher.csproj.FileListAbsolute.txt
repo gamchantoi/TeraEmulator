@@ -35,3 +35,14 @@ C:\working222\working\CoreTeraLauncher\bin\Debug\Newtonsoft.Json.xml
 C:\working222\working\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.csprojResolveAssemblyReference.cache
 C:\working222\working\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.exe
 C:\working222\working\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\CoreTeraLauncher.exe.config
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\CoreTeraLauncher.exe
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\CoreTeraLauncher.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\CoreLibrary.dll
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\CoreLibrary.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\Game Launcher.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.exe
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\CoreTeraLauncher\obj\Debug\CoreTeraLauncher.pdb

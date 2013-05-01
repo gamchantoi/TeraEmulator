@@ -69,6 +69,10 @@
     <StartupObject>
     </StartupObject>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Tera_Online.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="Content">
       <HintPath>..\Content\bin\Debug\Content.dll</HintPath>
@@ -213,6 +217,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\TeraLauncher.login.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tera_Online.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

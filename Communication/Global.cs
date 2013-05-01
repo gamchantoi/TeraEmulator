@@ -102,6 +102,14 @@ namespace Communication
             ServerIsWork = false;
         }
 
+        public static void ShutdownServerForce()
+        {
+            if (ShutdownIsStart)
+                return;
+            ShutdownIsStart = true;
+            ServerIsWork = false;
+        }
+
         protected static void MainLoop()
         {
             while (ServerIsWork)

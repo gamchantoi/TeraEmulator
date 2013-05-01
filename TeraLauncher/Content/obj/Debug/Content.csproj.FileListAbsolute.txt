@@ -12,3 +12,10 @@ C:\working222\working\Content\obj\Debug\Content.Properties.Resources.resources
 C:\working222\working\Content\obj\Debug\Content.csproj.GenerateResource.Cache
 C:\working222\working\Content\obj\Debug\Content.dll
 C:\working222\working\Content\obj\Debug\Content.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\bin\Debug\Content.dll
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\bin\Debug\Content.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\obj\Debug\Content.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\obj\Debug\Content.Properties.Resources.resources
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\obj\Debug\Content.csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\obj\Debug\Content.dll
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Content\obj\Debug\Content.pdb

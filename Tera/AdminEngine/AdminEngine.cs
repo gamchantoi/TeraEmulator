@@ -34,10 +34,14 @@ namespace Tera.AdminEngine
             AdminCommands.Add("camp", new CampfireInfo());
             AdminCommands.Add("mount", new Mount());
             AdminCommands.Add("viewmember", new ViewMember());
+            AdminCommands.Add("notice", new Notice());
 
             AdminCommands.Add("script", new AdminCommands.Script());
 
             AdminCommands.Add("test", new Test());
+
+            // Maintenance
+            AdminCommands.Add("systemnote", new SystemNote());
 
             //User commands:
 

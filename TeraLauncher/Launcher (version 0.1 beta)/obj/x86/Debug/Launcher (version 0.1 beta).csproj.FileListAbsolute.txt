@@ -83,3 +83,19 @@ C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x8
 C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
 C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
 C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.config
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Content.dll
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Content.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\Users\Julian\Documents\GitHub\TeraEmulator\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
