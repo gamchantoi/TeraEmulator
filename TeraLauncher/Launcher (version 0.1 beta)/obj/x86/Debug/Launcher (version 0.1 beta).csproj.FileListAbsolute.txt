@@ -1,0 +1,85 @@
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Launcher (version 0.1 beta).exe
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Launcher (version 0.1 beta).pdb
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.UserControl1.resources
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).exe
+C:\Users\wekserr\Desktop\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).pdb
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csprojResolveAssemblyReference.cache
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\FiddlerCore4.dll
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.xml
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csprojResolveAssemblyReference.cache
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csprojResolveAssemblyReference.cache
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\Users\Mr.Karyzir\Desktop\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
+C:\working222\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\working222\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\working222\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\working222\working\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\working222\working\Launcher (version 0.1 beta)\bin\Debug\Newtonsoft.Json.xml
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csprojResolveAssemblyReference.cache
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\working222\working\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.config
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe.manifest
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.application
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.exe
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Game Launcher.pdb
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Content.dll
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\bin\Debug\Content.pdb
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.LoginForm.resources
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.MainForm.resources
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher__version_0._1_beta_.Properties.Resources.resources
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Launcher (version 0.1 beta).csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe.manifest
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.application
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.exe
+C:\Users\Julian\Documents\GitHub\TeraLauncher\Launcher (version 0.1 beta)\obj\x86\Debug\Game Launcher.pdb
