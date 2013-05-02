@@ -8,6 +8,20 @@ using Network.Server;
 using Tera.Services;
 using Utils;
 
+/**
+ * Class JumpTo
+ * Allows GM to Summon / Teleport Player or Party
+ * Usage : `jumpto {type} {user}
+ * type string
+ * user string
+ * Types : summon, teleport, psummon, teleport
+ * ------------------------------
+ * Copyright (c) 2013 Uebari, formatme
+ * TeraEmulator
+ * Version: 1725-001 Beta
+ * This source is Open under GPL License
+ * --------------------------------
+*/
 namespace Tera.AdminEngine.AdminCommands
 {
     class JumpTo : ACommand
@@ -57,6 +71,11 @@ namespace Tera.AdminEngine.AdminCommands
                                 Z = float.Parse(target.Position.Z.ToString())
                             });
                         break;
+
+                    /**
+                     * Party functions have neither been tested nor implemented
+                     * do not use the code.
+                     */
 
                     // Summon Party
                     case "psummon":

@@ -20,6 +20,8 @@ namespace Data.Structures.Player
 
         public IController Controller;
 
+        public bool setGodMode = false;
+
         public int PlayerId { get { return UID + 21081990; } }
 
         [ProtoBuf.ProtoMember(4)]

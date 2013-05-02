@@ -10,6 +10,19 @@ using Data.Structures.Player;
 using Network.Server;
 using Utils;
 
+/**
+ * Class JumpTo
+ * Usage : `notice {message}
+ * Allow GMs to send out messages to entire
+ * server.
+ * message string
+ * ------------------------------
+ * Copyright (c) 2013 Uebari, formatme
+ * TeraEmulator
+ * Version: 1725-001 Beta
+ * This source is Open under GPL License
+ * --------------------------------
+*/
 namespace Tera.AdminEngine.AdminCommands
 {
     class Notice : ACommand

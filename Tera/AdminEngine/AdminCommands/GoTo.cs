@@ -8,6 +8,19 @@ using Network.Server;
 using Tera.Services;
 using Utils;
 
+/**
+ * Class Goto
+ * Teleport Instantly to specific cities
+ * based off pegasus platforms.
+ * Usage : `goto {cityname}
+ * cityname string
+ * ------------------------------
+ * Copyright (c) 2013 Uebari, formatme
+ * TeraEmulator
+ * Version: 1725-001 Beta
+ * This source is Open under GPL License
+ * --------------------------------
+*/
 namespace Tera.AdminEngine.AdminCommands
 {
     internal class GoTo : ACommand

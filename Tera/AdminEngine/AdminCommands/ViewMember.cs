@@ -2,6 +2,21 @@
 using Data.Interfaces;
 using Network.Server;
 
+/**
+ * Class ViewMember
+ * Allow GMs to view location and controller
+ * information for users.
+ * Usage : `viewmember {type} {player}
+ * type string
+ * player string
+ * Types : position, controller, showpos
+ * ------------------------------
+ * Copyright (c) 2013 Uebari, formatme
+ * TeraEmulator
+ * Version: 1725-001 Beta
+ * This source is Open under GPL License
+ * --------------------------------
+*/
 namespace Tera.AdminEngine.AdminCommands
 {
     class ViewMember : ACommand

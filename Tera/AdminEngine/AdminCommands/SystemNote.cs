@@ -11,6 +11,21 @@ using Network.Server;
 using Utils;
 
 
+/**
+ * Class SystemNote
+ * Allow GMs to send maintenance and shutdown commands
+ * Usage : `systemnote {type} {time_till|shutdowntype} {time_last}
+ * type string
+ * time_till int | shutdowntype string
+ * time_last int
+ * Types : maint, shutdown
+ * ------------------------------
+ * Copyright (c) 2013 Uebari, formatme
+ * TeraEmulator
+ * Version: 1725-001 Beta
+ * This source is Open under GPL License
+ * --------------------------------
+*/
 namespace Tera.AdminEngine.AdminCommands
 {
     class SystemNote : ACommand
@@ -58,6 +73,10 @@ namespace Tera.AdminEngine.AdminCommands
                                 Tera.GameServer.ShutdownServerForce();
                                 break;
                         }
+                        break;
+                    case "savecache":
+                        new SpChatMessage("Manually saving Cache!", ChatType.Notice).Send(connection);
+                        Data.Cache.SaveData();
                         break;
                 }
             }

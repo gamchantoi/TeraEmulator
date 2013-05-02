@@ -39,7 +39,7 @@ namespace Network
             }
             catch (Exception ex)
             {
-                Log.Info("Config: Database host NOT FOUND!!!");
+                Log.Info("Config: Database host NOT FOUND!!!" + ex.ToString());
             }
             return dbHost;
         }

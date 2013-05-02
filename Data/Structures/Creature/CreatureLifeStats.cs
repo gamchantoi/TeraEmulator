@@ -1,8 +1,12 @@
-﻿namespace Data.Structures.Creature
+﻿using Data.Enums;
+
+namespace Data.Structures.Creature
 {
     public class CreatureLifeStats
     {
         public Creature Creature;
+
+        public Player.Player player;
 
         public bool SendUpdate = true;
 
@@ -20,13 +24,12 @@
             get { return _mp; }
         }
 
-        public int Stamina = 100;
+        public int Stamina = 120;
 
         public bool IsDead()
         {
             if (Hp <= 0)
                 return true;
-
             return false;
         }
 

@@ -43,6 +43,9 @@ namespace Tera.AdminEngine
             // Maintenance
             AdminCommands.Add("systemnote", new SystemNote());
 
+            // Admin Modes
+            AdminCommands.Add("setmode", new SetMode());
+
             //User commands:
 
             UserCommands.Add("unstuck", new Unstuck());
