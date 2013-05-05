@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Scs">
-      <HintPath>..\Tera\bin\Debug\Scs.dll</HintPath>
+      <HintPath>..\Libs\Scs.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

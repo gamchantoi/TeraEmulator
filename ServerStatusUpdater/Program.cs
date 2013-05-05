@@ -90,16 +90,18 @@ namespace ServerStatusUpdater
             if (_lastStatus == status)
             {
                 Console.WriteLine("### Last server status equals current!");
-                
-                var AjaxQueryFormat = string.Format("{0}?server={1}&status=updateonline&userson={2}",
-                        so.webApiUrl, so.server,
-                        ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture)
-                    );
-                var request = WebRequest.Create(AjaxQueryFormat);
-                request.Timeout = 5000;
-                using (request.GetResponse())
+                if (status == "0" || status == "1")
                 {
-                    Console.WriteLine("Online Users: " + ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture));
+                    var AjaxQueryFormat = string.Format("{0}?server={1}&status=updateonline&userson={2}",
+                            so.webApiUrl, so.server,
+                            ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture)
+                        );
+                    var request = WebRequest.Create(AjaxQueryFormat);
+                    request.Timeout = 5000;
+                    using (request.GetResponse())
+                    {
+                        Console.WriteLine("Online Users: " + ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture));
+                    }
                 }
                 return;
             }
