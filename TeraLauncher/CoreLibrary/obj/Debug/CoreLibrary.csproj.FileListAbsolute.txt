@@ -1,5 +1,0 @@
-C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\CoreLibrary\bin\Debug\CoreLibrary.dll
-C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\CoreLibrary\bin\Debug\CoreLibrary.pdb
-C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\CoreLibrary\obj\Debug\CoreLibrary.csprojResolveAssemblyReference.cache
-C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\CoreLibrary\obj\Debug\CoreLibrary.dll
-C:\Users\Mr.Karyzir\Desktop\work\Launcher (version 0.1 beta)\CoreLibrary\obj\Debug\CoreLibrary.pdb

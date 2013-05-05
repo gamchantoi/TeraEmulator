@@ -1,0 +1,13 @@
+C:\Users\ASUSG75VW\Documents\Visual Studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe.config
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Form1.resources
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Properties.Resources.resources
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Register.resources
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Splash.resources
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb

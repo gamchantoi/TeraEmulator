@@ -9,3 +9,14 @@ J:\_Tera\Tera\Data\bin\Debug\NLog.pdb
 J:\_Tera\Tera\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 J:\_Tera\Tera\Data\obj\Debug\Data.dll
 J:\_Tera\Tera\Data\obj\Debug\Data.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\Data.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\Data.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\protobuf-net.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\Utils.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\NLog.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\Utils.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\protobuf-net.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\bin\Debug\NLog.pdb
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\obj\Debug\Data.dll
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Data\obj\Debug\Data.pdb
