@@ -8,6 +8,5 @@ C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\bin\Debug\Utils.dll
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\bin\Debug\Utils.pdb
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\bin\Debug\NLog.dll
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\bin\Debug\NLog.pdb
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\obj\Debug\Utils.dll
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Utils\obj\Debug\Utils.pdb

@@ -47,8 +47,8 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Utils.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\protobuf-net.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Crypt.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\NLog.pdb
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Tera.exe.config
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\NLog.config
+C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Tera.exe.config
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Tera.exe
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Tera.pdb
 C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Communication.dll

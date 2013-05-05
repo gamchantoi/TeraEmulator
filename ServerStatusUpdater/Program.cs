@@ -21,7 +21,7 @@ namespace ServerStatusUpdater
 
         public const int InformerPort = 23232;
 
-        public const string AjaxQueryFormat = "http://127.0.0.1/tera/update_ss.php?server=teraintranet&status={0}";
+        //public const string AjaxQueryFormat = "http://127.0.0.1/tera/update_ss.php?server=teraintranet&status={0}";
 
         public static InformerClient Client = null;
 
@@ -100,7 +100,9 @@ namespace ServerStatusUpdater
 
             try
             {
-                var request = WebRequest.Create(string.Format(AjaxQueryFormat, status));
+                ServerOpt so = new ServerOpt();
+                var AjaxQueryFormat = "http://127.0.0.1/tera/update_ss.php?server={0}&status={1}";
+                var request = WebRequest.Create(string.Format(AjaxQueryFormat, so.server, status));
                 request.Timeout = 5000;
                 using (request.GetResponse())
                 {
