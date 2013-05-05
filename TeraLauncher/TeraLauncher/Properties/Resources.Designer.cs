@@ -89,6 +89,16 @@ namespace TeraLauncher.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon tera_png_icon__3___by_sidyseven_d50pcak {
+            get {
+                object obj = ResourceManager.GetObject("tera_png_icon__3___by_sidyseven_d50pcak", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap teraCloseHover {

@@ -34,5 +34,53 @@ namespace ServerStatusUpdater {
                 this["server"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("127.0.0.1")]
+        public string serverip {
+            get {
+                return ((string)(this["serverip"]));
+            }
+            set {
+                this["serverip"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0bacf71935dd3589a2c529d1cdaba6d0b80a82d673730fe752001f06a509a8ff")]
+        public string sercurityKey {
+            get {
+                return ((string)(this["sercurityKey"]));
+            }
+            set {
+                this["sercurityKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("23232")]
+        public int informerPort {
+            get {
+                return ((int)(this["informerPort"]));
+            }
+            set {
+                this["informerPort"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1/tera/update_ss.php")]
+        public string webApiUrl {
+            get {
+                return ((string)(this["webApiUrl"]));
+            }
+            set {
+                this["webApiUrl"] = value;
+            }
+        }
     }
 }

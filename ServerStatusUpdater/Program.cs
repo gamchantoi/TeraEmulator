@@ -15,13 +15,6 @@ namespace ServerStatusUpdater
 {
     static class Program
     {
-        public const string SecurityKey = "0bacf71935dd3589a2c529d1cdaba6d0b80a82d673730fe752001f06a509a8ff";
-
-        public const string ServerIp = "127.0.0.1";
-
-        public const int InformerPort = 23232;
-
-        //public const string AjaxQueryFormat = "http://127.0.0.1/tera/update_ss.php?server=teraintranet&status={0}";
 
         public static InformerClient Client = null;
 
@@ -31,6 +24,8 @@ namespace ServerStatusUpdater
 
         static void Main()
         {
+            ServerOpt so = new ServerOpt();
+
             Client = new InformerClient();
 
             Client.OnMessage += Console.WriteLine;
@@ -42,14 +37,14 @@ namespace ServerStatusUpdater
                 };
 
             ScsClient = ScsServiceClientBuilder.CreateClient<IInformerService>
-                (new ScsTcpEndPoint(ServerIp, InformerPort), Client);
+                (new ScsTcpEndPoint(so.serverip, so.informerPort), Client);
 
             ScsClient.Timeout = ScsClient.ConnectTimeout = 2500;
 
             ScsClient.Connected += (sender, args) =>
                 {
                     Console.WriteLine("Connected...");
-                    ScsClient.ServiceProxy.Auth(SecurityKey);
+                    ScsClient.ServiceProxy.Auth(so.sercurityKey);
                 };
 
             while (true)
@@ -90,9 +85,22 @@ namespace ServerStatusUpdater
 
         private static void SendUpdate(string status = "offline")
         {
+            ServerOpt so = new ServerOpt();
+
             if (_lastStatus == status)
             {
                 Console.WriteLine("### Last server status equals current!");
+                
+                var AjaxQueryFormat = string.Format("{0}?server={1}&status=updateonline&userson={2}",
+                        so.webApiUrl, so.server,
+                        ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture)
+                    );
+                var request = WebRequest.Create(AjaxQueryFormat);
+                request.Timeout = 5000;
+                using (request.GetResponse())
+                {
+                    Console.WriteLine("Online Users: " + ScsClient.ServiceProxy.GetOnlineList().Count.ToString(CultureInfo.InvariantCulture));
+                }
                 return;
             }
 
@@ -100,8 +108,7 @@ namespace ServerStatusUpdater
 
             try
             {
-                ServerOpt so = new ServerOpt();
-                var AjaxQueryFormat = "http://127.0.0.1/tera/update_ss.php?server={0}&status={1}";
+                var AjaxQueryFormat = so.webApiUrl+"?server={0}&status={1}";
                 var request = WebRequest.Create(string.Format(AjaxQueryFormat, so.server, status));
                 request.Timeout = 5000;
                 using (request.GetResponse())

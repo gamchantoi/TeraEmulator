@@ -2,8 +2,3 @@ J:\_Tera\Tera\Crypt\bin\Debug\Crypt.dll
 J:\_Tera\Tera\Crypt\bin\Debug\Crypt.pdb
 J:\_Tera\Tera\Crypt\obj\Debug\Crypt.dll
 J:\_Tera\Tera\Crypt\obj\Debug\Crypt.pdb
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Crypt\bin\Debug\Crypt.dll
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Crypt\bin\Debug\Crypt.pdb
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Crypt\obj\Debug\Crypt.dll
-C:\Users\ASUSG75VW\Documents\GitHub\TeraEmulator\Crypt\obj\Debug\Crypt.pdb
