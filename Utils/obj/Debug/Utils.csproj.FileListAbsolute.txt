@@ -4,3 +4,10 @@ J:\_Tera\Tera\Utils\bin\Debug\NLog.dll
 J:\_Tera\Tera\Utils\bin\Debug\NLog.pdb
 J:\_Tera\Tera\Utils\obj\Debug\Utils.dll
 J:\_Tera\Tera\Utils\obj\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\Utils\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\Utils\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\Utils\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\Utils\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.pdb

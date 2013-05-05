@@ -31,7 +31,6 @@
             this.lblFormName = new System.Windows.Forms.Label();
             this.btnClose = new System.Windows.Forms.Button();
             this.btnMinimize = new System.Windows.Forms.Button();
-            this.pbNews = new System.Windows.Forms.PictureBox();
             this.lblWelcomeText = new System.Windows.Forms.Label();
             this.lblProgress = new System.Windows.Forms.Label();
             this.pbDownload = new System.Windows.Forms.ProgressBar();
@@ -51,9 +50,12 @@
             this.lblLastLogin = new System.Windows.Forms.Label();
             this.lblLastIP = new System.Windows.Forms.Label();
             this.pnLoggedIn = new System.Windows.Forms.Panel();
-            ((System.ComponentModel.ISupportInitialize)(this.pbNews)).BeginInit();
+            this.pbNews = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnNotLogged.SuspendLayout();
             this.pnLoggedIn.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbNews)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // lblFormName
@@ -64,7 +66,7 @@
             this.lblFormName.ForeColor = System.Drawing.Color.White;
             this.lblFormName.Location = new System.Drawing.Point(10, 12);
             this.lblFormName.Name = "lblFormName";
-            this.lblFormName.Size = new System.Drawing.Size(85, 17);
+            this.lblFormName.Size = new System.Drawing.Size(71, 13);
             this.lblFormName.TabIndex = 0;
             this.lblFormName.Text = "TeraLauncher";
             // 
@@ -86,14 +88,6 @@
             this.btnMinimize.UseVisualStyleBackColor = true;
             this.btnMinimize.Click += new System.EventHandler(this.btnMinimize_Click);
             // 
-            // pbNews
-            // 
-            this.pbNews.Location = new System.Drawing.Point(183, 104);
-            this.pbNews.Name = "pbNews";
-            this.pbNews.Size = new System.Drawing.Size(401, 273);
-            this.pbNews.TabIndex = 3;
-            this.pbNews.TabStop = false;
-            // 
             // lblWelcomeText
             // 
             this.lblWelcomeText.AutoSize = true;
@@ -102,7 +96,7 @@
             this.lblWelcomeText.ForeColor = System.Drawing.Color.White;
             this.lblWelcomeText.Location = new System.Drawing.Point(182, 65);
             this.lblWelcomeText.Name = "lblWelcomeText";
-            this.lblWelcomeText.Size = new System.Drawing.Size(64, 17);
+            this.lblWelcomeText.Size = new System.Drawing.Size(55, 13);
             this.lblWelcomeText.TabIndex = 4;
             this.lblWelcomeText.Text = "Welcome,";
             // 
@@ -114,7 +108,7 @@
             this.lblProgress.ForeColor = System.Drawing.Color.White;
             this.lblProgress.Location = new System.Drawing.Point(9, 396);
             this.lblProgress.Name = "lblProgress";
-            this.lblProgress.Size = new System.Drawing.Size(56, 17);
+            this.lblProgress.Size = new System.Drawing.Size(48, 13);
             this.lblProgress.TabIndex = 5;
             this.lblProgress.Text = "Progress";
             // 
@@ -168,7 +162,7 @@
             // 
             this.tbPassword.Location = new System.Drawing.Point(7, 74);
             this.tbPassword.Name = "tbPassword";
-            this.tbPassword.Size = new System.Drawing.Size(208, 22);
+            this.tbPassword.Size = new System.Drawing.Size(208, 20);
             this.tbPassword.TabIndex = 3;
             // 
             // lblPassword
@@ -178,7 +172,7 @@
             this.lblPassword.ForeColor = System.Drawing.Color.White;
             this.lblPassword.Location = new System.Drawing.Point(4, 54);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(61, 17);
+            this.lblPassword.Size = new System.Drawing.Size(53, 13);
             this.lblPassword.TabIndex = 2;
             this.lblPassword.Text = "Password";
             // 
@@ -186,7 +180,7 @@
             // 
             this.tbUsername.Location = new System.Drawing.Point(7, 25);
             this.tbUsername.Name = "tbUsername";
-            this.tbUsername.Size = new System.Drawing.Size(208, 22);
+            this.tbUsername.Size = new System.Drawing.Size(208, 20);
             this.tbUsername.TabIndex = 1;
             // 
             // lblUsername
@@ -196,7 +190,7 @@
             this.lblUsername.ForeColor = System.Drawing.Color.Transparent;
             this.lblUsername.Location = new System.Drawing.Point(4, 4);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(66, 17);
+            this.lblUsername.Size = new System.Drawing.Size(56, 13);
             this.lblUsername.TabIndex = 0;
             this.lblUsername.Text = "Username";
             // 
@@ -217,7 +211,7 @@
             this.lblLoggedAs.ForeColor = System.Drawing.Color.White;
             this.lblLoggedAs.Location = new System.Drawing.Point(4, 4);
             this.lblLoggedAs.Name = "lblLoggedAs";
-            this.lblLoggedAs.Size = new System.Drawing.Size(79, 17);
+            this.lblLoggedAs.Size = new System.Drawing.Size(64, 13);
             this.lblLoggedAs.TabIndex = 0;
             this.lblLoggedAs.Text = "Logged In As";
             // 
@@ -237,7 +231,7 @@
             this.lblCoins.ForeColor = System.Drawing.Color.White;
             this.lblCoins.Location = new System.Drawing.Point(4, 29);
             this.lblCoins.Name = "lblCoins";
-            this.lblCoins.Size = new System.Drawing.Size(37, 17);
+            this.lblCoins.Size = new System.Drawing.Size(33, 13);
             this.lblCoins.TabIndex = 2;
             this.lblCoins.Text = "Coins";
             // 
@@ -248,7 +242,7 @@
             this.lblRegisterDate.ForeColor = System.Drawing.Color.White;
             this.lblRegisterDate.Location = new System.Drawing.Point(4, 54);
             this.lblRegisterDate.Name = "lblRegisterDate";
-            this.lblRegisterDate.Size = new System.Drawing.Size(88, 17);
+            this.lblRegisterDate.Size = new System.Drawing.Size(73, 13);
             this.lblRegisterDate.TabIndex = 3;
             this.lblRegisterDate.Text = "Registered On";
             // 
@@ -259,7 +253,7 @@
             this.lblLastLogin.ForeColor = System.Drawing.Color.White;
             this.lblLastLogin.Location = new System.Drawing.Point(4, 103);
             this.lblLastLogin.Name = "lblLastLogin";
-            this.lblLastLogin.Size = new System.Drawing.Size(86, 17);
+            this.lblLastLogin.Size = new System.Drawing.Size(71, 13);
             this.lblLastLogin.TabIndex = 4;
             this.lblLastLogin.Text = "Last logged In";
             // 
@@ -270,7 +264,7 @@
             this.lblLastIP.ForeColor = System.Drawing.Color.White;
             this.lblLastIP.Location = new System.Drawing.Point(4, 78);
             this.lblLastIP.Name = "lblLastIP";
-            this.lblLastIP.Size = new System.Drawing.Size(45, 17);
+            this.lblLastIP.Size = new System.Drawing.Size(38, 13);
             this.lblLastIP.TabIndex = 5;
             this.lblLastIP.Text = "Last IP";
             // 
@@ -288,6 +282,23 @@
             this.pnLoggedIn.Size = new System.Drawing.Size(222, 158);
             this.pnLoggedIn.TabIndex = 9;
             // 
+            // pbNews
+            // 
+            this.pbNews.Location = new System.Drawing.Point(183, 104);
+            this.pbNews.Name = "pbNews";
+            this.pbNews.Size = new System.Drawing.Size(401, 273);
+            this.pbNews.TabIndex = 3;
+            this.pbNews.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::TeraLauncher.Properties.Resources.plshalp;
+            this.pictureBox1.Location = new System.Drawing.Point(2, 107);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(201, 269);
+            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -295,6 +306,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImage = global::TeraLauncher.Properties.Resources.teraLauncherBG;
             this.ClientSize = new System.Drawing.Size(816, 454);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnPlay);
             this.Controls.Add(this.pnNotLogged);
             this.Controls.Add(this.pbTotal);
@@ -310,11 +322,12 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tera Launcher";
-            ((System.ComponentModel.ISupportInitialize)(this.pbNews)).EndInit();
             this.pnNotLogged.ResumeLayout(false);
             this.pnNotLogged.PerformLayout();
             this.pnLoggedIn.ResumeLayout(false);
             this.pnLoggedIn.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbNews)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -325,7 +338,6 @@
         private System.Windows.Forms.Label lblFormName;
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Button btnMinimize;
-        private System.Windows.Forms.PictureBox pbNews;
         private System.Windows.Forms.Label lblWelcomeText;
         private System.Windows.Forms.Label lblProgress;
         private System.Windows.Forms.ProgressBar pbDownload;
@@ -345,6 +357,8 @@
         private System.Windows.Forms.Label lblLastLogin;
         private System.Windows.Forms.Label lblLastIP;
         private System.Windows.Forms.Panel pnLoggedIn;
+        private System.Windows.Forms.PictureBox pbNews;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

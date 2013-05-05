@@ -8,7 +8,7 @@ namespace TeraLauncher
 {
     public class patcher
     {
-        public string patcherURL = "http://localhost/patcher.php?version=";
+        public string patcherURL = "http://localhost:88/patcher.php?version=";
         public string currentVersion = TeraLauncher.Properties.Resources.ApplicationVersion;
     }
 }

@@ -43,7 +43,7 @@ namespace Tera.AdminEngine.AdminCommands
             }
             catch(Exception e)
             {
-                new SpChatMessage("Wrong syntax!\nType: `additem {item_id} {counter}", ChatType.Notice).Send(connection);
+                new SpChatMessage("Wrong syntax!\nType: @additem {item_id} {counter}", ChatType.Notice).Send(connection);
                 Log.Warn(e.ToString());
             }
         }

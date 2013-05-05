@@ -158,6 +158,12 @@
   <ItemGroup>
     <None Include="Resources\tera_png_icon__3___by_sidyseven-d50pcak.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\halp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plshalp.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

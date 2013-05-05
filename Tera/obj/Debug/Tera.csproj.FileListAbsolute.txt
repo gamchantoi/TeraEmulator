@@ -47,3 +47,28 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Utils.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\protobuf-net.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\Crypt.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Tera\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Tera.exe.config
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\NLog.config
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Tera.exe
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Tera.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Communication.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Data.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\InformerLib.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Network.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Scs.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\protobuf-net.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Crypt.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\MySql.Data.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Communication.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Data.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\InformerLib.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Network.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\protobuf-net.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\Crypt.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Tera\obj\Debug\Tera.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\Tera\obj\Debug\Tera.exe
+C:\Development\Tera Online\TeraEmulator\Tera\obj\Debug\Tera.pdb

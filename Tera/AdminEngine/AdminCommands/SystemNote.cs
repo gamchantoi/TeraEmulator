@@ -82,7 +82,7 @@ namespace Tera.AdminEngine.AdminCommands
             }
             catch (Exception e)
             {
-                new SpChatMessage("Wrong Syntax!\n Type `systemnote {type} {option1} {option2}\nOptions are usually in seconds!", ChatType.Notice).Send(connection);
+                new SpChatMessage("Wrong Syntax!\n Type @systemnote {type} {option1} {option2}\nOptions are usually in seconds!", ChatType.Notice).Send(connection);
                 Log.Warn(e.ToString());
             }
         }

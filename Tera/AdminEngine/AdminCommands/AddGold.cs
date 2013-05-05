@@ -54,7 +54,7 @@ namespace Tera.AdminEngine.AdminCommands
             }
             catch (Exception e)
             {
-                new SpChatMessage("Wrong Syntax!\n Type `addgold {player} {number}", ChatType.Notice).Send(connection);
+                new SpChatMessage("Wrong Syntax!\n Type @addgold {player} {number}", ChatType.Notice).Send(connection);
                 Log.Warn(e.ToString());
             }
         }

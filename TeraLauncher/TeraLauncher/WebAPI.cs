@@ -15,7 +15,7 @@ namespace TeraLauncher
 
         public UserData user;
 
-        public string webApiUrl = "http://localhost/tera/webapi.php";
+        public string webApiUrl = "http://localhost:88/tera/webapi.php";
 
         public static T _login_Callback<T>(string url, string lg, string ps) where T : new()
         {

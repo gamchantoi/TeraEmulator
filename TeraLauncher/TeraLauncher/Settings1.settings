@@ -2,14 +2,14 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TeraLauncher" GeneratedClassName="Settings1">
   <Profiles />
   <Settings>
-    <Setting Name="webApiURLS" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://localhost/tera/</Value>
-    </Setting>
-    <Setting Name="patchAPIURLS" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://localhost/tera/patcher</Value>
-    </Setting>
     <Setting Name="patchVersion" Type="System.String" Scope="User">
       <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="webApiURLS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:88/tera/</Value>
+    </Setting>
+    <Setting Name="patchAPIURLS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:88/tera/patcher</Value>
     </Setting>
   </Settings>
 </SettingsFile>

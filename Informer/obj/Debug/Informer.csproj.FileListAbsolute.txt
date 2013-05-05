@@ -54,3 +54,31 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\Informer\obj\Debug\Informer.Prop
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Informer\obj\Debug\Informer.csproj.GenerateResource.Cache
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Informer\obj\Debug\Informer.exe
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Informer\obj\Debug\Informer.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Informer.exe.config
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Informer.exe
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Informer.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Communication.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\InformerLib.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Scs.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Data.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\protobuf-net.dll
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Communication.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\InformerLib.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\Data.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\bin\Debug\protobuf-net.pdb
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\MainWindow.baml
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\PacketViewer.baml
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\MainWindow.g.cs
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\PacketViewer.g.cs
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\App.g.cs
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer_MarkupCompile.cache
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.g.resources
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.Properties.Resources.resources
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.csproj.GenerateResource.Cache
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.exe
+C:\Development\Tera Online\TeraEmulator\Informer\obj\Debug\Informer.pdb

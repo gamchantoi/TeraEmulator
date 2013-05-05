@@ -35,6 +35,7 @@ namespace Tera.AdminEngine
             AdminCommands.Add("mount", new Mount());
             AdminCommands.Add("viewmember", new ViewMember());
             AdminCommands.Add("notice", new Notice());
+            AdminCommands.Add("help", new Help());
 
             AdminCommands.Add("script", new AdminCommands.Script());
 
@@ -65,7 +66,7 @@ namespace Tera.AdminEngine
             if (msg.Length < 2)
                 return false;
 
-            if (msg[0] == '`' && IsGM(connection.Player))
+            if (msg[0] == '@' && IsGM(connection.Player))
             {
                 string cmd = msg.Substring(1).Split(' ')[0];
                 if (AdminCommands.ContainsKey(cmd))
@@ -104,7 +105,7 @@ namespace Tera.AdminEngine
 
         public bool IsGM(Player player)
         {
-            return player.AccountName.ToLower() == "uebari" || player.AccountName.ToLower() == "formatme" || // add your account name/names here
+            return player.AccountName.ToLower() == "liquid" || player.AccountName.ToLower() == "mtarnuhal" || // add your account name/names here
                     player.AccountName.ToLower() == "" || player.AccountName.ToLower() == "";
         }
 

@@ -2,3 +2,8 @@ J:\_Tera\Tera\Crypt\bin\Debug\Crypt.dll
 J:\_Tera\Tera\Crypt\bin\Debug\Crypt.pdb
 J:\_Tera\Tera\Crypt\obj\Debug\Crypt.dll
 J:\_Tera\Tera\Crypt\obj\Debug\Crypt.pdb
+C:\Development\Tera Online\TeraEmulator\Crypt\bin\Debug\Crypt.dll
+C:\Development\Tera Online\TeraEmulator\Crypt\bin\Debug\Crypt.pdb
+C:\Development\Tera Online\TeraEmulator\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\Crypt\obj\Debug\Crypt.dll
+C:\Development\Tera Online\TeraEmulator\Crypt\obj\Debug\Crypt.pdb

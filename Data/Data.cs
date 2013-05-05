@@ -22,7 +22,7 @@ namespace Data
 {
     public class Data
     {
-        public static string DataPath = Path.GetFullPath("../../../../datapack/gameserver/data/");
+        public static string DataPath = Path.GetFullPath("../../../../Tera/bin/Debug/data/");
 
         public static List<long> PlayerExperience = new List<long>();
 

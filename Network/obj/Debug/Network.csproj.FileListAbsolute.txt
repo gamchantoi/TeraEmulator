@@ -35,3 +35,22 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\Network\bin\Debug\Data.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Network\bin\Debug\Utils.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Network\bin\Debug\protobuf-net.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\Network\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Network.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Network.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Communication.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Crypt.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Data.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\MySql.Data.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Scs.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\protobuf-net.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Communication.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Crypt.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Data.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\protobuf-net.pdb
+C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.dll
+C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.pdb

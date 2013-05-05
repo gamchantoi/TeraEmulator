@@ -39,3 +39,24 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\ServerStatusUpdater\bin\Debug\Ut
 C:\Users\formatme\Documents\GitHub\TeraEmulator\ServerStatusUpdater\bin\Debug\protobuf-net.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe.config
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Communication.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Informer.exe
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\InformerLib.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Scs.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Data.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\protobuf-net.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Communication.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\InformerLib.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Informer.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Data.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\protobuf-net.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.exe
+C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.pdb

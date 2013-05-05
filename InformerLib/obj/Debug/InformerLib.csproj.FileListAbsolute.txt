@@ -30,3 +30,19 @@ C:\Users\formatme\Documents\GitHub\TeraEmulator\InformerLib\bin\Debug\NLog.pdb
 C:\Users\formatme\Documents\GitHub\TeraEmulator\InformerLib\obj\Debug\InformerLib.csprojResolveAssemblyReference.cache
 C:\Users\formatme\Documents\GitHub\TeraEmulator\InformerLib\obj\Debug\InformerLib.dll
 C:\Users\formatme\Documents\GitHub\TeraEmulator\InformerLib\obj\Debug\InformerLib.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\InformerLib.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\InformerLib.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Communication.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Data.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Scs.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Utils.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\protobuf-net.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\NLog.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Communication.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Data.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\Utils.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\protobuf-net.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\NLog.pdb
+C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.csprojResolveAssemblyReference.cache
+C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.dll
+C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.pdb

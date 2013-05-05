@@ -4,3 +4,11 @@
 00:38:32.4421 | Data: guilds_cache file not found!
 01:04:04.4337 | Data: Cache file not found!
 01:04:04.4337 | Data: guilds_cache file not found!
+16:18:34.2629 | Data: Cache file not found!
+16:18:34.2629 | Data: guilds_cache file not found!
+20:13:52.8864 | Data: Cache file not found!
+20:13:52.8994 | Data: guilds_cache file not found!
+21:23:59.2320 | Data: Cache file not found!
+21:23:59.2320 | Data: guilds_cache file not found!
+21:33:38.9342 | Data: Cache file not found!
+21:33:38.9472 | Data: guilds_cache file not found!
