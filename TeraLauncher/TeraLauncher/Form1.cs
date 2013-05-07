@@ -193,5 +193,10 @@ namespace TeraLauncher
             this.Hide();
             rg.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

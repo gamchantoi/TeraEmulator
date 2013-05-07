@@ -35,7 +35,7 @@ namespace Tera.AdminEngine
             AdminCommands.Add("mount", new Mount());
             AdminCommands.Add("viewmember", new ViewMember());
             AdminCommands.Add("notice", new Notice());
-            AdminCommands.Add("help", new Help());
+           // AdminCommands.Add("help", new Help());
 
             AdminCommands.Add("script", new AdminCommands.Script());
 

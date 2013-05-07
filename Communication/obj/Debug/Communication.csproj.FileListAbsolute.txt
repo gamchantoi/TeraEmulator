@@ -40,3 +40,31 @@ C:\Development\Tera Online\TeraEmulator\Communication\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\Communication\obj\Debug\Communication.dll
 C:\Development\Tera Online\TeraEmulator\Communication\obj\Debug\Communication.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Communication.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Communication.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Scs.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\Communication\obj\Debug\Communication.dll
+D:\server tera src\Tera-git\TeraEmulator\Communication\obj\Debug\Communication.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Communication.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Communication.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Scs.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\obj\Debug\Communication.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Communication\obj\Debug\Communication.pdb

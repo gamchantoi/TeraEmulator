@@ -46,3 +46,35 @@ C:\Development\Tera Online\TeraEmulator\InformerLib\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.dll
 C:\Development\Tera Online\TeraEmulator\InformerLib\obj\Debug\InformerLib.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\InformerLib.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\InformerLib.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Communication.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Scs.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Communication.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\obj\Debug\InformerLib.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\obj\Debug\InformerLib.dll
+D:\server tera src\Tera-git\TeraEmulator\InformerLib\obj\Debug\InformerLib.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\InformerLib.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\InformerLib.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Communication.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Scs.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Communication.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\obj\Debug\InformerLib.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\obj\Debug\InformerLib.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\InformerLib\obj\Debug\InformerLib.pdb

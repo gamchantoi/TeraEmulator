@@ -292,10 +292,9 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::TeraLauncher.Properties.Resources.plshalp;
-            this.pictureBox1.Location = new System.Drawing.Point(2, 107);
+            this.pictureBox1.Location = new System.Drawing.Point(2, 104);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(201, 269);
+            this.pictureBox1.Size = new System.Drawing.Size(201, 272);
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
@@ -322,6 +321,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tera Launcher";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.pnNotLogged.ResumeLayout(false);
             this.pnNotLogged.PerformLayout();
             this.pnLoggedIn.ResumeLayout(false);

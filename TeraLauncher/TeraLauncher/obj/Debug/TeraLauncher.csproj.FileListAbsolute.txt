@@ -12,3 +12,29 @@ C:\Development\Tera Online\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\Tera
 C:\Development\Tera Online\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache
 C:\Development\Tera Online\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
 C:\Development\Tera Online\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Form1.resources
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Register.resources
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Splash.resources
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Properties.Resources.resources
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe.config
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.pdb
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb
+D:\server tera src\Tera-git\TeraEmulator\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe.config
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Form1.resources
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Properties.Resources.resources
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Register.resources
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Splash.resources
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
+D:\server tera src\Tera-IDgit\TeraEmulatorID\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb

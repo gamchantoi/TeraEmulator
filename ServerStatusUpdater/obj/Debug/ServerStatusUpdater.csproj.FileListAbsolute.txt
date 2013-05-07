@@ -60,3 +60,45 @@ C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.exe
 C:\Development\Tera Online\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe.config
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Communication.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Informer.exe
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\InformerLib.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Scs.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Communication.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\InformerLib.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Informer.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.exe
+D:\server tera src\Tera-git\TeraEmulator\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe.config
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.exe
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\ServerStatusUpdater.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Communication.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Informer.exe
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\InformerLib.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Scs.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Communication.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\InformerLib.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Informer.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.exe
+D:\server tera src\Tera-IDgit\TeraEmulatorID\ServerStatusUpdater\obj\Debug\ServerStatusUpdater.pdb

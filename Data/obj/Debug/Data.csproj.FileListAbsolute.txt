@@ -20,3 +20,25 @@ C:\Development\Tera Online\TeraEmulator\Data\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\Data\obj\Debug\Data.dll
 C:\Development\Tera Online\TeraEmulator\Data\obj\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-git\TeraEmulator\Data\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\Data\obj\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\Data\obj\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\obj\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Data\obj\Debug\Data.pdb

@@ -54,3 +54,41 @@ C:\Development\Tera Online\TeraEmulator\Network\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.dll
 C:\Development\Tera Online\TeraEmulator\Network\obj\Debug\Network.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Network.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Network.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Communication.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Crypt.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Data.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\MySql.Data.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Scs.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Communication.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Crypt.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Data.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\Network\obj\Debug\Network.dll
+D:\server tera src\Tera-git\TeraEmulator\Network\obj\Debug\Network.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Network.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Network.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Communication.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Crypt.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\MySql.Data.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Scs.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\protobuf-net.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Communication.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Crypt.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Data.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\protobuf-net.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\obj\Debug\Network.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Network\obj\Debug\Network.pdb

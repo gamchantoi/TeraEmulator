@@ -21,9 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStatusUpdater", "Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeraLauncher", "TeraLauncher\TeraLauncher\TeraLauncher.csproj", "{0F697C7E-1B7F-417B-BB2E-59D5A305DE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTools", "Tools\DataTools\DataTools.csproj", "{C805234C-BCDE-4147-B7C1-8D165C00D980}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTools", "tools\DataTools\DataTools.csproj", "{C805234C-BCDE-4147-B7C1-8D165C00D980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCTools", "Tools\DCTools\DCTools.csproj", "{CF448CFA-FBB2-40B6-AFA9-1F7A8C7B3012}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCTools", "tools\DCTools\DCTools.csproj", "{CF448CFA-FBB2-40B6-AFA9-1F7A8C7B3012}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

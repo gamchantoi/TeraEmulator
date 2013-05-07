@@ -11,3 +11,17 @@ C:\Development\Tera Online\TeraEmulator\Utils\bin\Debug\NLog.pdb
 C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
 C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.dll
 C:\Development\Tera Online\TeraEmulator\Utils\obj\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\Utils\bin\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\Utils\bin\Debug\Utils.pdb
+D:\server tera src\Tera-git\TeraEmulator\Utils\bin\Debug\NLog.dll
+D:\server tera src\Tera-git\TeraEmulator\Utils\bin\Debug\NLog.pdb
+D:\server tera src\Tera-git\TeraEmulator\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-git\TeraEmulator\Utils\obj\Debug\Utils.dll
+D:\server tera src\Tera-git\TeraEmulator\Utils\obj\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\bin\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\bin\Debug\Utils.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\bin\Debug\NLog.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\obj\Debug\Utils.dll
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Utils\obj\Debug\Utils.pdb

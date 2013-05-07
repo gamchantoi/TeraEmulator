@@ -88,7 +88,6 @@
     <Compile Include="AdminEngine\AdminCommands\CheckGeo.cs" />
     <Compile Include="AdminEngine\AdminCommands\Craft.cs" />
     <Compile Include="AdminEngine\AdminCommands\GoTo.cs" />
-    <Compile Include="AdminEngine\AdminCommands\Help.cs" />
     <Compile Include="AdminEngine\AdminCommands\JumpTo.cs" />
     <Compile Include="AdminEngine\AdminCommands\Mount.cs" />
     <Compile Include="AdminEngine\AdminCommands\Notice.cs" />
