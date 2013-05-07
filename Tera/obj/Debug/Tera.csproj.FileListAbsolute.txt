@@ -146,3 +146,4 @@ D:\server tera src\Tera-IDgit\TeraEmulatorID\Tera\bin\Debug\Utils.pdb
 D:\server tera src\Tera-IDgit\TeraEmulatorID\Tera\bin\Debug\protobuf-net.pdb
 D:\server tera src\Tera-IDgit\TeraEmulatorID\Tera\bin\Debug\Crypt.pdb
 D:\server tera src\Tera-IDgit\TeraEmulatorID\Tera\bin\Debug\NLog.pdb
+D:\server tera src\Tera-IDgit\TeraEmulatorID\Tera\obj\Debug\Tera.csprojResolveAssemblyReference.cache
